@@ -1,5 +1,8 @@
 # TTCar
 ## ショッピングカート
+
+
+### mobilenet_retrain:https://github.com/burliEnterprises/tensorflow-image-classifier
 競争アイテムのコードですから、readmeは日本語で書きました。
 <br>
 
